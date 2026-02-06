@@ -1,7 +1,7 @@
 Type: Package
 Package: CuratedAtlasQueryR
 Title: Queries the Human Cell Atlas
-Version: 1.9.0
+Version: 1.9.1
 Authors@R: c(
     person(
         "Stefano",
@@ -136,3 +136,4 @@ Collate:
     'unharmonised.R'
     'zzz.R'
 Language: en-US
+PackageStatus: Deprecated
